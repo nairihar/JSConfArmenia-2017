@@ -1,0 +1,23 @@
+{
+  "name": "JSConfArmenia",
+  "version": "1.0.0",
+  "description": "JavaScript Conference Armenia Source Code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nairicode/JSConfArmenia.git"
+  },
+  "keywords": [],
+  "author": "Nairi Harutyunyan",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-generator-functions": "^6.24.1"
+  },
+  "bugs": {
+    "url": "https://github.com/nairicode/JSConfArmenia/issues"
+  },
+  "homepage": "https://github.com/nairicode/JSConfArmenia#readme"
+}
