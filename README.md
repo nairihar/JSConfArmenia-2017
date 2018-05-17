@@ -8,7 +8,7 @@ JavaScript Conference Armenia Source Code
 > - Introduce an app working with **fs** module, written in all **async** kinds (callbacks, promises, generators, async/await).
 > - Problems which can occur while doing **async** programming and how to deal with them
 
-**Slide:** https://slides.com/nairi/deck-4
+**Slide:** https://slides.com/nairihar/deck-4
 
 ## Used Sources
 
