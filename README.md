@@ -1,4 +1,4 @@
-# JSConfArmenia
+# JSConfArmenia-2017
 JavaScript Conference Armenia Source Code
 
 ----------
